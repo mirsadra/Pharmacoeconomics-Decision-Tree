@@ -6,6 +6,7 @@
 ![NetworkX](https://img.shields.io/badge/NetworkX-2.4%2B-FFA500.svg?logo=GraphQL&logoColor=white)
 ![GitHub stars](https://img.shields.io/github/stars/mirsadra/Pharmacoeconomics-Decision-Tree?style=social)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mirsadra/)
 
 A Python-based tool for building and analyzing decision trees in pharmacoeconomics.
 
@@ -206,7 +207,6 @@ This project is licensed under the MIT License.
 If you have any questions or need further assistance, feel free to reach out:
 - Email: miirsadra@gmail.com
 - GitHub Issues: [Create an issue](https://github.com/mirsadra/Pharmacoeconomics-Decision-Tree/issues)
-
 
 **Additional Tips for Beginners**
 
